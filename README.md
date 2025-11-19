@@ -1,3 +1,16 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=300&section=header&text=Gasser%20Mohamed&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Frontend&descAlignY=60&descSize=25" alt="Gasser Mohamed Header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6F00&background=FFFFFF00&center=true&vCenter=true&width=600&lines=print(%22Building+Intelligent+Systems...%22);const+developer+%3D+%22Frontend+Wizard%22;impl+Cpp+for+Systems+%7B%7D" alt="Typing SVG" />
+</a>
+
+<a href="https://github.com/gasse4">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gasse4&bg_color=0d1117&color=FF6F00&line=FFD700&point=FFFFFF&hide_border=true" alt="Gasser's Activity Graph" />
+</a>
+
+</div>
 # Gasser Mohamed
 
 AI Engineer | Machine Learning Enthusiast | Frontend Developer
