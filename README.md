@@ -44,14 +44,6 @@ I am a **Software Engineering Student** at the **Faculty of Artificial Intellige
 
 ---
 
-## 🚀 Projects & Contributions
-
-| Project | Role | Tech Stack |
-|:---|:---|:---|
-| **Huawei ICT Solutions** | Regional Winner | Cloud · AI · Computing |
-| **Astro Optimization** | Contributor | Astro · JS Islands |
-
----
 
 
 ## 📫 Let's Connect
