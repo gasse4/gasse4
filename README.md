@@ -11,7 +11,7 @@
 ## 🏆 Major Achievements
 
 - 🥇 **First Prize Winner | Huawei ICT Competition 2024-2025 (Northern Africa):** Ranked among the top digital talents in the region, qualifying for the **Global Finals in Shenzhen, China**. Specialized in advanced ICT tracks including Cloud and Computing.
-- 🚀 **GSoC 2026 Candidate:** Proposing a Native Builder Plugin for the **Neutralinojs** framework to automate cross-platform app distribution.
+
 
 ---
 
