@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=200&section=header&text=Gasser%20Mohamed&fontSize=70&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=200&section=header&text=Galiliozzz%20&fontSize=70&fontColor=ffffff&animation=twinkling" />
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Huawei+ICT+Competition+Winner+2025;Open+Source+Contributor+%7C+GSoC+2026" />
 
